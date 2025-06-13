@@ -3,7 +3,7 @@ Site HTML simples inspirado em filosofia e gatos, feito para prática e projeto 
 
 # Manifesto Felino Contra a Sociedade do Desempenho
 
-Este é um site HTML simples, criado por Giovanna Pennisi, que traz um texto juntando duas coisas que eu amo: gatos e filosofia.  
+Este é um site HTML simples, criado por mim, Giovanna Pennisi, que traz um texto juntando duas coisas que eu amo: gatos e filosofia.  
 
 O objetivo principal foi praticar meus conhecimentos em desenvolvimento web, criando uma página estática com conteúdo significativo e um design clean.  
 
@@ -39,7 +39,3 @@ Para o deploy, o site foi clonado via Git na instância EC2, e os arquivos foram
 
 Giovanna Pennisi  
 Estudante de Análise e Desenvolvimento de Sistemas  
-
----
-
-Qualquer dúvida ou sugestão, estou à disposição!  
